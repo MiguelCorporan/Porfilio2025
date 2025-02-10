@@ -131,7 +131,7 @@ body{
   position: relative;
   overflow-x: hidden;
 
-  background: url('/Exp_One/img/calidad.jpg') no-repeat center center/cover;
+  background: url('./img/calidad.jpg') no-repeat center center/cover;
 }
 
 .body::before {
@@ -648,5 +648,3 @@ button {
   }
 
 }
-
-  
